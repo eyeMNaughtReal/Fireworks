@@ -1,0 +1,1 @@
+This is my first attempt at creating a database for tracking the inventory of a Firework company.
